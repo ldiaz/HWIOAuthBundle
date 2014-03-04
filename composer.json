@@ -1,5 +1,5 @@
 {
-    "name":        "matheo/oauth-bundle",
+    "name":        "hwi/oauth-bundle",
     "type":        "symfony-bundle",
     "description": "Support for authenticating users using both OAuth1.0a and OAuth2 in Symfony2.",
     "keywords":    [
